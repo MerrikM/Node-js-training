@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "yargs": "^17.7.1"
+  },
+  "name": "node-js-training",
+  "description": "В файле Ex1.js используя команды \"add\" и \"sub\" вводить add date 2, add year 5, и т.д. \r не используя '--' перед year, month, date, аналогично при использовании команды current",
+  "version": "1.0.0",
+  "main": "Ex1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
