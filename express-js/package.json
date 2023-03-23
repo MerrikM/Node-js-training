@@ -1,5 +1,15 @@
 {
   "dependencies": {
-    "epxress": "^0.0.1-security"
-  }
+    "epxress": "^0.0.1-security",
+    "uuid": "^9.0.0"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
